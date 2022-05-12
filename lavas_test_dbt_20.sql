@@ -1,1 +1,1 @@
-select * from 
+select * from DEV01.LAVAS.TBL_YEXT;

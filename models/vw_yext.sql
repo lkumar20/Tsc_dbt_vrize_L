@@ -1,0 +1,1 @@
+select * from dev01.lavas.tbl_yext
