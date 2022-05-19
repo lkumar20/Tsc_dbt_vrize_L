@@ -1,1 +1,1 @@
-select * from dev01.lavas.tbl_yext
+select * from dev01.lavas.BATCH_LOAD_NOTIFY_TABLE_1
